@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ivx27
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently trying to learn many things
+- 🔗 I store my code here
 - 😄 Pronouns: copy/paste
 
 <!---
